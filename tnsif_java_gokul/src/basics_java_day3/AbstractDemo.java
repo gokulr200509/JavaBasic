@@ -1,4 +1,5 @@
-package day3.abstraction;
+//Program to demonstrate abstraction
+package oops_abstraction;
 
 
 public class AbstractDemo {
